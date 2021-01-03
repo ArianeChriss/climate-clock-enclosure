@@ -3,8 +3,11 @@ Enclosure design files for the portable versions of the climate clock at https:/
 
 # Materials:
 24 M3x8 screws (I use socket cap screws)
+
 24 M3 hex nuts
+
 3d printer filament
+
 2 pieces of 1/8" material for laser cutting, minimum dimensions 27.75"x6" each
 
 # Instructions:
@@ -17,6 +20,7 @@ Enclosure design files for the portable versions of the climate clock at https:/
     front_cut.dxf
     back_cut.dxf
 3. Use M3 hex nuts as heat-set inserts, set on top of holes in 3d printed parts, apply soldering iron (set to at least 315℉) and press gently to allow nut to settle into hole
+    
     Instructions/description for using heat set inserts at https://markforged.com/resources/blog/heat-set-inserts
 4. Center matrix displays on front laser cut piece
 5. Place Raspberry Pi and HAT into case, use M3 x 8 screws to attach case, end and center pieces to front laser cut piece
