@@ -1,6 +1,9 @@
 # climate-clock-enclosure
 Enclosure design files for the portable versions of the climate clock at https://climateclock.world/make
 
+# Notes:
+**The .dxf files need to be updated with slightly smaller holes for the screws, and we're still in the process of testing the printed pieces with heat set inserts instead of nuts. Check back here for updates!!!**
+
 # Materials:
 24 M3x8 screws (I use socket cap screws)
 
