@@ -7,7 +7,7 @@ Enclosure design files for the portable versions of the climate clock at https:/
 # Materials:
 24 M3x8 screws (I use socket cap screws)
 
-24 M3 hex nuts
+24 M3 hex nuts **THIS WILL BE REPLACED WITH HEAT SET INSERTS AS SOON AS THEY ARE TESTED WITH THE DESIGN. AS OF RIGHT NOW, THE TENSION OF SCREWING IN THE WOOD WILL DETACH THE NUTS FROM THE 3D PRINT.**
 
 3d printer filament
 
